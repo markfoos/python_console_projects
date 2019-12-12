@@ -1,5 +1,8 @@
 This is an unsecure python script designed to take passwords from code and copy that password to
 the clipboard. Reccomend securing the program before entering any sensitie information for automation
+Uses the following modules:
+sys
+pyperclip
 
 When running the program, enter the type of password you want to copy
 
