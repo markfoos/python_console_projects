@@ -1,0 +1,6 @@
+Simple collatz sequence program. Enter an integer as input
+Program will then output integers based on odd or even
+If odd, the output is 3 * (odd number) + 1
+If even, the output is (even number) // 2
+
+This will continue until the program reaches the integer: 1
