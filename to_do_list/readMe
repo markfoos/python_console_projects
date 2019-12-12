@@ -1,0 +1,3 @@
+Simple to_do_list program 
+Program asks the user for a task, appends the task to a list and will keep asking until the user enters "done"
+Prints the list to the console upon completion
