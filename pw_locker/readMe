@@ -1,0 +1,9 @@
+This is an unsecure python script designed to take passwords from code and copy that password to
+the clipboard. Reccomend securing the program before entering any sensitie information for automation
+
+When running the program, enter the type of password you want to copy
+
+For example:
+python pw_locker.py email
+# this will copy: "pw_for_email" 
+# to the clipboard
