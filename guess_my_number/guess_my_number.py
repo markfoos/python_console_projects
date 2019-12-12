@@ -61,7 +61,7 @@ def game_init():
             elif guess in range(0,11) and guess < answer:
                 print("'To the RIGHT, To the RIGHT'")
                 continue
-            elif guess == 69:
+            elif guess == 99:
                 guessed == True
                 break
             else:
