@@ -2,7 +2,7 @@
 #created by Mark Foos
 #original script inspired by Automate the Boring Stuff with Python
 print("-" * 100)
-print("Welcome to Collatz Sequence") #introduction text to the user
+print("Welcome to Collatz Sequence")
 print("-" * 100)
 
 print("\nEnter a Number\n")
