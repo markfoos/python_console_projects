@@ -1,0 +1,10 @@
+Python password authentication function
+
+Password entered must meet the following parameters:
+8 chars long
+one uppercase char
+one digit
+one special char (!, ?, #, @. %)
+
+Prints validation requirements if any requirement is missing
+Program uses regex for validation
