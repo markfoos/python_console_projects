@@ -1,0 +1,12 @@
+justTextMeSomeWeather uses Twilio and requires a twilio accountSID, authToken and OpenWeatherMan API key to
+function properly. Input Twilio and openweatherman api data and then use sys argv with your desired zip code
+for example:
+python justTextMeSomeWeather.py 72653
+# follow user inputs for which phone number to send to
+# sends weather data to the desired phone number
+
+uses the following modules:
+json, requests, sys, time, math
+
+
+Compass function for wind direction is disabled
