@@ -1,0 +1,8 @@
+Multiplication Table creator. Creates a new excel workbook with the multiplication table set by the argv value
+For example:
+python multiplicationTableCreator.py 10
+# user enters input for new file name
+# creates an excel document with the new file name containing a 10 by 10 multiplication table
+
+Uses modules:
+import sys, openpyxl
