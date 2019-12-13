@@ -1,0 +1,5 @@
+XKCD web scraper will use multithreading to download 2200 XKCD comics using 22 threads
+Saves all comic pages to the local directory.
+
+uses modules:
+requests, os, bs4, threading
