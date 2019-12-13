@@ -1,0 +1,5 @@
+Simple countdown program asks an integer from the user. The program counts down and then plays
+"finalCountdown" within python using the pyaudio module.
+
+
+countdownAudio.py uses time, subprocess, playsound, wave, pyaudio
