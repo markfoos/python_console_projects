@@ -1,0 +1,5 @@
+Invitation Creator will create individual invitations into a single Word document. Pulls names from the 
+"names.txt" file and then imports that data into a new word document page. In this instance 20 names will create 20 separate
+invitations with a png picture. Download all assets to run the program without errors
+
+uses the docx module
