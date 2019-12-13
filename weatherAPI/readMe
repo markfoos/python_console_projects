@@ -1,0 +1,8 @@
+WeatherAPI.py requires an API key from openweathermap for full functionality (obviously not provided for Git Publishing)
+Contains wind direction function, formats degrees to cardinal direction
+Uses sys argv for city location, for example:
+
+python weatherAPI.py 93446
+#will pull weather data for the Northern San Luis Obispo County
+
+Uses modules:  json, requests, sys, time, math
