@@ -1,0 +1,7 @@
+logifyApp requires a logo.png image in the working director
+Add images to the working directory to be modified to the existing image
+Suggest using image copies into the working directory to avoid original image loss
+logo.png is added to the lower right corner 
+
+Uses PIL module
+
