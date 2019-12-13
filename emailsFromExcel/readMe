@@ -6,3 +6,5 @@ App is scalable to the excel workbook
 
 Uses Modules:
 openpyxl, smtplib, sys, datetime
+
+includes commented out code from failed attempts
