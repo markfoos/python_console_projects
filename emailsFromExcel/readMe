@@ -1,0 +1,8 @@
+duesApp takes data from the duesRecords excel file. Parces out which cells are 'unpaid' and then sends an email
+notifying the name of the date/cell where there is a payment due. Requires user input of email and password.
+App is scalable to the excel workbook
+
+
+
+Uses Modules:
+openpyxl, smtplib, sys, datetime
