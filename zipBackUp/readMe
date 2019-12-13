@@ -2,6 +2,7 @@ zipBackUp program will take user input to identify the file to backup and then c
 First verifies if there is an existing backup folder from local directory
 Then asks for the filename in local directory
 Increments filename if more than one backup copy has been made (for larger projects) in local directory
+Saves zipfile to local directory backup folder
 
 uses the following modules:
 zipfile, os, shutil, pathlib
